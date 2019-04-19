@@ -74,3 +74,44 @@
 
 
 ### 用户和用户组管理
+
+**用户账号管理**
+
+- useradd：添加用户
+- userdel：删除用户
+- usermod：修改账户属性
+
+用户账号相关文件
+
+- /etc/passwd：用户账号相关信息
+- /etc/shadow：用户密码相关信息
+- /etc/group：用户组相关信息
+
+**用户口令的管理**
+
+- passwd：修改密码
+
+**用户组的管理**
+
+- groupadd：添加用户组
+- groupdel：删除用户组
+- groupmod：修改用户组属性
+- newgrp：切换用户组
+
+
+
+### vi/vim
+
+**三种工作模式**
+
+- 命令模式
+- 输入模式
+- 底线命令模式
+
+**切换**
+
+![vim-vi-workmodel](https://7n.w3cschool.cn/attachments/image/20180423/1524469573884388.png)
+
+
+
+### ...
