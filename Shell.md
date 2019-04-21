@@ -218,3 +218,5 @@ source filename
 - 反引号执行命令 echo \`expr 1 + 2\`
 - test 检测条件是否成立：作为 if 的条件使用
 - read 与用户交互，读取用户接下来的输入
+- export 设置或显示环境变量
+- alias 设置别名
