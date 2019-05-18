@@ -51,6 +51,7 @@
 - 网站品质
 - Nginx
 - Docker
+- OAuth 2.0
 - SEO
 
 #### 开发工具
@@ -71,4 +72,3 @@
 
 - 正则表达式
 - Markdown
-
