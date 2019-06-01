@@ -61,6 +61,7 @@
   - Github
 - Sublime Text
 - Shell
+- Make/Makefile
 
 #### 编程能力
 

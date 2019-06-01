@@ -98,11 +98,13 @@ HTTP Client 支持多种方式
 
 #### [Seed Fu](https://github.com/mbleigh/seed-fu)
 
-强大的 seed
+强大的 seed 数据管理
 
 #### [rails_best_practices](https://github.com/railsbp/rails_best_practices)
 
 编写代码总有方圆，费心费力写文档，还不如用这个工具来控制代码质量。
+
+其他相关 [gem](http://railscasts.com/episodes/252-metrics-metrics-metrics)
 
 #### [lazy_high_charts](https://github.com/michelson/lazy_high_charts)
 

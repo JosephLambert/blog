@@ -165,9 +165,11 @@ echo $HISTSIZE查看默认保存命令数量为500。
 
      ```shell
      #!/usr/bin/env ruby
-     # 添加最上面的注释使得之后的代码可以用ruby编写
-     puts test cmd test cmd
+        (上面的注释使得之后的代码可以用ruby编写)
+     # -*- coding: UTF-8 -*-
+        (上面的注释使得可以使用中文编码)
+   puts test cmd test cmd
      ```
-
+  
   3.  chmod +x test_cmd 使得该文件可以被执行
   4. 在新打开的窗口执行test_cmd命令即可
