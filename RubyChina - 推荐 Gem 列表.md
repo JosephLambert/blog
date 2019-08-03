@@ -1,4 +1,4 @@
-## 推荐 Gem 列表
+## RubyChina - 推荐 Gem 列表
 
 本页用于介绍 Ruby 社区里面那些特别热门的 Gem ，以下 Gem 可以在 [rubygems.org](http://rubygems.org/) （gem 发布、管理、托管、查找）找到。
 
@@ -116,7 +116,9 @@ HTTP Client 支持多种方式
 
 #### [god](http://godrb.com/)
 
-Ruby 进程监控工具
+Ruby 进程监控和任务管理工具
+
+[使用手册](https://ruby-china.org/topics/21354)
 
 #### [RuCaptcha](https://github.com/huacnlee/rucaptcha)
 
@@ -125,3 +127,4 @@ Ruby 进程监控工具
 ### [second_level_cache](https://rubygems.org/gems/second_level_cache)
 
 ActiveRecord 二级缓存插件，装上他你可以无缝的实现对 ActiveRecord 数据的二级缓存。
+
